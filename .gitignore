@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.db
+.venv/
+venv/
+ENV/
+data/raw/*
+data/processed/*
+!data/.gitkeep
